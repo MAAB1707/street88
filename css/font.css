@@ -1,0 +1,38 @@
+/* roboto */
+@font-face{
+    font-family: 'roboto';
+    src: url('../fonts/roboto/Roboto-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+/* raleway */
+@font-face{
+    font-family: 'raleway';
+    src: url('../fonts/raleaway/Raleway-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'raleway';
+    src: url('../fonts/raleaway/Raleway-Thin.ttf') format('truetype');
+    font-weight: 100;
+}
+@font-face{
+    font-family: 'raleway';
+    src: url('../fonts/raleaway/Raleway-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+@font-face{
+    font-family: 'raleway';
+    src: url('../fonts/raleaway/Raleway-Black.ttf') format('truetype');
+    font-weight: 900;
+}
+/* icons */
+@font-face{
+    font-family: 'icons';
+    src: url('../fonts/icons/fa-light-300.ttf') format('truetype');
+    font-weight: 300;
+}
+@font-face{
+    font-family: 'icons';
+    src: url('../fonts/icons/fa-duotone-900.ttf') format('truetype');
+    font-weight: 900;
+}
